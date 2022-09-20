@@ -11,4 +11,23 @@ function App() {
   );
 }
 
+// Using arrow functions
+// const App = () => {
+//   <div>
+//     <Article />
+//     <Comment />
+//   </div>
+// }
+
+//Class component
+
+// class App extends React.Component{
+//   render(){
+//     return <div>
+//       <Article />
+//       <Comment />
+//     </div>
+//   }
+// }
+
 export default App;
